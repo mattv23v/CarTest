@@ -1,0 +1,34 @@
+App started!
+Started car 1995 Ford Taurus
+Engine running
+Headlights On
+Stereo On
+Started car 1981 DeLorean DMC-12
+Engine running
+Headlights On
+Stereo On
+Started car 2017 Honda CRV
+Engine running
+Headlights On
+Stereo On
+Started car 2016 Toyoda Camry
+Engine running
+Headlights On
+Stereo On
+Stopped car 1995 Ford Taurus
+Engine off
+Headlights Off
+Stereo Off
+Stopped car 1981 DeLorean DMC-12
+Engine off
+Headlights Off
+Stereo Off
+Stopped car 2017 Honda CRV
+Engine off
+Headlights Off
+Stereo Off
+Stopped car 2016 Toyoda Camry
+Engine off
+Headlights Off
+Stereo Off
+
